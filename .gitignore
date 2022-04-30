@@ -22,9 +22,9 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 .vs
-**\bin
-**\obj
-**\AppPackages
+**/bin/**
+**/obj/**
+**/AppPackages/**
 cparsecode.txt
 exampleMessage.txt
 **/packages
@@ -32,3 +32,5 @@ secret.txt
 *.zipx
 *.ps1
 *.psd1
+Blynk.NET.IoT.Background/AppPackages/
+*.user

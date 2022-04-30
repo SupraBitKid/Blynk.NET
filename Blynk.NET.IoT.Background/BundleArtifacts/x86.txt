@@ -1,0 +1,2 @@
+MainPackage=C:\Users\kaibi\source\repos\Blynk.NET\Blynk.NET.IoT.Background\bin\x86\Debug\Blynk.NET.IoT.Background_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\kaibi\source\repos\Blynk.NET\Blynk.NET.IoT.Background\AppPackages\Blynk.NET.IoT.Background_1.0.0.0_Debug_Test\Blynk.NET.IoT.Background_1.0.0.0_x86_Debug.appxsym
