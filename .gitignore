@@ -21,3 +21,14 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+.vs
+**\bin
+**\obj
+**\AppPackages
+cparsecode.txt
+exampleMessage.txt
+**/packages
+secret.txt
+*.zipx
+*.ps1
+*.psd1
